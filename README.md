@@ -14,3 +14,18 @@ Phase mapping of complex phase-transformed Ti-50Nb alloy.
 
 Strain mapping of Si/SiGe multilayers.
 
+
+
+## Cite
+```
+@misc{genc2025neuralobjectdetection4d,
+      title={Neural Object Detection for 4D STEM: High-Throughput Sub-Pixel Electron Diffraction Pattern Recognition}, 
+      author={Arda Genc and Ravit Silverstein},
+      year={2025},
+      eprint={2506.04477},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci},
+      url={https://arxiv.org/abs/2506.04477}, 
+}
+
+```
