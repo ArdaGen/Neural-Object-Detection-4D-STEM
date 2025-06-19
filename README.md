@@ -14,6 +14,24 @@ Phase mapping of complex phase-transformed Ti-50Nb alloy.
 
 Strain mapping of Si/SiGe multilayers.
 
+## Installation
+Install [PyTorch](https://pytorch.org/get-started/locally/)
+<br>
+<br>
+Install RosettaSciIO
+```
+pip install rosettasciio
+```
+Install Ultralytics for YOLOv8
+```
+pip install ultralytics
+```
+Install tempo4d
+```
+pip install --extra-index-url https://pypi.org/simple/ -i https://test.pypi.org/simple/ tempo4d==0.1.1
+
+```
+
 ## Demo
 ![](https://github.com/ArdaGen/Neural-Object-Detection-4D-STEM/blob/main/assets/Media3.gif)
 
