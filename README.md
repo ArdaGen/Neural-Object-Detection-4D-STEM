@@ -21,7 +21,7 @@ Please create a new environment
 Python >= 3.7
 <br>
 <br>
-Install via this link [PyTorch](https://pytorch.org/get-started/locally/)
+Install torch+cuda via this link [PyTorch](https://pytorch.org/get-started/locally/)
 <br>
 <br>
 Install RosettaSciIO
