@@ -15,14 +15,20 @@ Phase mapping of complex phase-transformed Ti-50Nb alloy.
 Strain mapping of Si/SiGe multilayers.
 
 ## Installation
-Install [PyTorch](https://pytorch.org/get-started/locally/)
+Please create a new environment
+<br>
+<br>
+Python >= 3.7
+<br>
+<br>
+Install via this link [PyTorch](https://pytorch.org/get-started/locally/)
 <br>
 <br>
 Install RosettaSciIO
 ```
 pip install rosettasciio
 ```
-Install Ultralytics for YOLOv8
+Install Ultralytics 
 ```
 pip install ultralytics
 ```
