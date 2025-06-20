@@ -28,7 +28,7 @@ pip install ultralytics
 ```
 Install tempo4d
 ```
-pip install --extra-index-url https://pypi.org/simple/ -i https://test.pypi.org/simple/ tempo4d==0.1.2
+pip install tempo4d
 
 ```
 
