@@ -21,17 +21,16 @@ Please create a new environment
 Python >= 3.7
 <br>
 <br>
+If you have a CUDA-capable GPU, we strongly recommend installing a matching version of PyTorch manually before installing `tempo4d`.
+
+See: https://pytorch.org/get-started/locally/
+<br>
+<br>
 Install tempo4d
 ```
 pip install tempo4d
 ```
-<br>
-<br>
-⚠️ Note: By default, `ultralytics` installs the CPU-only version of PyTorch.
 
-If you have a CUDA-capable GPU, we strongly recommend installing a matching version of PyTorch manually after installing `tempo4d`.
-
-See: https://pytorch.org/get-started/locally/
 ## Demo
 ![](https://github.com/ArdaGen/Neural-Object-Detection-4D-STEM/blob/main/assets/Media3.gif)
 
