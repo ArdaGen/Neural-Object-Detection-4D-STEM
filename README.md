@@ -23,7 +23,9 @@ Python >= 3.7
 <br>
 Install torch
 <br>
-Note: Please install PyTorch manually based on your system and CUDA compatibility. See: https://pytorch.org/get-started/locally/
+Note: Please install PyTorch manually based on your system and CUDA compatibility. 
+<br>
+See: https://pytorch.org/get-started/locally/
 <br>
 <br>
 Install Ultralytics 
