@@ -21,13 +21,11 @@ Please create a new environment
 Python >= 3.7
 <br>
 <br>
-Install torch+cuda via this link [PyTorch](https://pytorch.org/get-started/locally/)
+Install torch
+<br>
+Note: Please install PyTorch manually based on your system and CUDA compatibility. See: https://pytorch.org/get-started/locally/
 <br>
 <br>
-Install RosettaSciIO
-```
-pip install rosettasciio
-```
 Install Ultralytics 
 ```
 pip install ultralytics
