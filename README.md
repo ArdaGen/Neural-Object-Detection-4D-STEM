@@ -62,6 +62,9 @@ This will install all required dependencies, including:
 - **rosettasciio[all]** (for TEM file support)
 
 ## Demo
+Please also see the `tempo4d_demo.ipynb` notebook in the `demo` folder.
+
+
 ![](https://github.com/ArdaGen/Neural-Object-Detection-4D-STEM/blob/main/assets/Media3.gif)
 
 ## Cite
