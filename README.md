@@ -1,4 +1,4 @@
-# Neural-Object-Detection-4D-STEM
+# tempo4d
 <img src="assets/model.svg" width="600"/>
 
 This repository provides an automated pipeline for analyzing 4D-STEM datasets using YOLOv8n.  
