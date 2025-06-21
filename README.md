@@ -40,7 +40,7 @@ Strain mapping of **Si/SiGe** multilayers demonstrating coherent lattice mismatc
 We recommend creating a new virtual environment:
 
 ```bash
-conda create -n tempo4d python=3.8
+conda create -n tempo4d python=3.10
 conda activate tempo4d
 ```
 ⚡ Install PyTorch (Recommended First)
