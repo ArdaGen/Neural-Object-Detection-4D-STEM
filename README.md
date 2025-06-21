@@ -35,7 +35,7 @@ Strain mapping of **Si/SiGe** multilayers demonstrating coherent lattice mismatc
 
 ## 🛠️ Installation
 
-> **Python ≥ 3.7 is required.**
+> **Python ≥ 3.9 is required.**
 
 We recommend creating a new virtual environment:
 
