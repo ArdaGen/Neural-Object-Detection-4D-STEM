@@ -2,31 +2,63 @@
 
 <img src="assets/model.svg" width="600"/>
 
-Repository for automated analysis of 4D-STEM datasets using YOLOv8n. 
-This workflow enables an end-to-end processing of large-scale 4D-STEM datasets for phase, orientation, and strain analysis.
+This repository provides an automated pipeline for the analysis of 4D-STEM datasets using YOLOv8n.  
+The workflow enables end-to-end processing of large-scale 4D-STEM datasets for phase identification, orientation mapping, and strain analysis.
 
+---
+
+### 🧬 Phase Mapping
 
 <img src="assets/phase.svg" width="600"/>
 
-Phase mapping of complex phase-transformed Ti-50Nb alloy.
+Phase mapping of complex phase-transformed **Ti-50Nb** alloy using object detection-based pattern recognition.
+
+---
+
+### 🧪 Strain Mapping
 
 <img src="assets/SiGe.svg" width="500"/>
 
-Strain mapping of Si/SiGe multilayers.
+Strain mapping of **Si/SiGe** multilayers demonstrating coherent lattice mismatch analysis.
 
-## Installation
-Please create a new environment (Python >= 3.7)
-<br>
-<br>
-If you have a CUDA-capable GPU, we strongly recommend installing a compatible version of PyTorch before installing `tempo4d`.
 
-See: https://pytorch.org/get-started/locally/
-<br>
-<br>
-Install tempo4d
+
+**Supported file formats:**
+
+- **Thermo Fisher Scientific**: `.emi`, `.xml` (EMPAD)  
+- **GATAN**: `.dm3`, `.dm4`  
+- **Direct Electron**: `.de5`  
+- **Standard**: `.h5`, `.hdf5`
+
+
+## 🛠️ Installation
+
+> **Python ≥ 3.7 is required.**
+
+We recommend creating a new virtual environment:
+
+```bash
+conda create -n tempo4d python=3.8
+conda activate tempo4d
+```
+⚡ Install PyTorch (Recommended First)
+
+If you have a CUDA-capable GPU, install a CUDA-compatible version of PyTorch before installing tempo4d.
+
+👉 [Install PyTorch](https://pytorch.org/get-started/locally/)
+
+📦 Install tempo4d
 ```
 pip install tempo4d
 ```
+This will install all required dependencies, including:
+
+- **PyQt5**
+- **pyqtgraph**
+- **OpenCV**
+- **matplotlib**
+- **Ultralytics** (for YOLOv8)
+- **rosettasciio[all]** (for TEM file support)
 
 ## Demo
 ![](https://github.com/ArdaGen/Neural-Object-Detection-4D-STEM/blob/main/assets/Media3.gif)
