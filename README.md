@@ -32,6 +32,7 @@ Strain mapping of **Si/SiGe** multilayers demonstrating coherent lattice mismatc
 - **Standard**: `.h5`, `.hdf5`
 
 
+
 ## 🛠️ Installation
 
 > **Python ≥ 3.7 is required.**
@@ -61,11 +62,15 @@ This will install all required dependencies, including:
 - **Ultralytics** (for YOLOv8)
 - **rosettasciio[all]** (for TEM file support)
 
+
+
 ## Demo
 Please also see the `tempo4d_demo.ipynb` notebook in the `demo` folder.
 
 
 ![](https://github.com/ArdaGen/Neural-Object-Detection-4D-STEM/blob/main/assets/Media3.gif)
+
+
 
 ## Cite
 ```
