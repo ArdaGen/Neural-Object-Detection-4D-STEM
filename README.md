@@ -18,7 +18,7 @@ Strain mapping of Si/SiGe multilayers.
 Please create a new environment (Python >= 3.7)
 <br>
 <br>
-If you have a CUDA-capable GPU, we strongly recommend installing a matching version of PyTorch manually before installing `tempo4d`.
+If you have a CUDA-capable GPU, we strongly recommend installing a compatible version of PyTorch before installing `tempo4d`.
 
 See: https://pytorch.org/get-started/locally/
 <br>
