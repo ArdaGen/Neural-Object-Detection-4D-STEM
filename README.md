@@ -1,6 +1,8 @@
 # Neural-Object-Detection-4D-STEM
+<p align="center">
+  <img src="assets/model.svg" width="600"/>
+</p>
 
-<img src="assets/model.svg" width="600"/>
 
 This repository provides an automated pipeline for the analysis of 4D-STEM datasets using YOLOv8n.  
 The workflow enables end-to-end processing of large-scale 4D-STEM datasets 
