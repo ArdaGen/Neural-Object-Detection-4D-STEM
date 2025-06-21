@@ -48,8 +48,10 @@ conda activate tempo4d
 If you have a CUDA-capable GPU, install a CUDA-compatible version of PyTorch before installing tempo4d.
 
 👉 [Install PyTorch](https://pytorch.org/get-started/locally/)
-
+<br>
+<br>
 📦 Install tempo4d
+
 ```
 pip install tempo4d
 ```
