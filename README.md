@@ -69,6 +69,7 @@ This will install all required dependencies, including:
 ## Demo
 Please also see the `tempo4d_demo.ipynb` notebook in the `demo` folder.
 
+Download example data from [GATAN](https://www.gatan.com/4d-stem-strain-mapping)
 
 ![](https://github.com/ArdaGen/Neural-Object-Detection-4D-STEM/blob/main/assets/Media3.gif)
 
