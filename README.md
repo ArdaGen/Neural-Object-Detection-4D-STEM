@@ -28,6 +28,8 @@ Strain mapping of **Si/SiGe** multilayers demonstrating coherent lattice mismatc
 
 - **Thermo Fisher Scientific**: `.emi`, `.xml` (EMPAD)  
 - **GATAN**: `.dm3`, `.dm4`  
+- **Dectris**: `.h5`
+- **NanoMegas**: `.blo`
 - **Direct Electron**: `.de5`  
 - **Standard**: `.h5`, `.hdf5`
 
