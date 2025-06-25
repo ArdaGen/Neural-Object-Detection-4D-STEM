@@ -1,4 +1,5 @@
 #  tempo4D
+<img src="assets/workflow.svg" width="600"/>
 ## Transmission Electron Microscope Pattern Observation 
 <img src="assets/model.svg" width="600"/>
 
